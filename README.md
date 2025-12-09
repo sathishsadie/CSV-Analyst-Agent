@@ -104,7 +104,7 @@ The app runs at:
 
 ---
 ```markdown
-![System Overview](images/image.png)
+[System Overview](CSV-Analyst-Agent/images/image.png)
 ```
 
 ---
